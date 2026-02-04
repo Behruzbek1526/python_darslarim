@@ -1,2 +1,2 @@
 # python_darslarim
-Mening Python darslarim amalyotlari.
+Mening Python darslarim amalyoti.
