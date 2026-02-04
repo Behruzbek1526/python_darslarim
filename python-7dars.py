@@ -52,7 +52,7 @@
        
          #AMALYOT
 #01 
-ismlar = ['Muslima','Behruzbek','Ozodbek']    #ismlar degan ro'yxat yaratdim.
+ismlar = ['Javlon','Behruzbek','Ozodbek']    #ismlar degan ro'yxat yaratdim.
 print("Salom yaxshmisan" ,ismlar[0]) 
 print("Bugun maktabga borasanmi?",ismlar[1])
 print('Salom qalay',ismlar[2],'ishlar yaxshimi?')  
@@ -71,7 +71,7 @@ z_shaxs = z_shaxslar.pop(1) # z_shaxslar ro'yxatidan Komiljon Hamidjonov ni elem
 print('Men tarixiy shaxslardan',t_shaxs," zamonaviy shaxslardan suhbat qilishni hohlardim.")
 #05 
 friends = []
-friends.append("Muslima")
+friends.append("Dilnoza")
 friends.append("Behruzbek")
 friends.append("Ozodbek")
 friends.append("Bahtiniso")
@@ -83,7 +83,7 @@ friends.remove("Ozodbek")
 friends.remove('Bilolbek')
 print(friends)
 #07
-friends[1]="Muslim"
+friends[1]="Jony"
 friends[-1]="Jony"
 #07
 mehmonlar =[]
